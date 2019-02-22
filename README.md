@@ -7,3 +7,4 @@ Cov_Sim.R  runs the analysis used in paper on simulated data.
 Simulated data can be found in Sim_data_05072018_B and Sim_data_05112018_B
 
 For a cleaned up, easy to run version of the code for gopher tortoise LTDS surveys, see the zipped file and included instruction sheet
+As of 2-22-2019, there is now a shiny app for analyzing models included as well. 
