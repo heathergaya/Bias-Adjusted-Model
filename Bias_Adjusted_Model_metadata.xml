@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--Record created using version 2.0.4 of the USGS Metadata Wizard tool. (https://github.com/usgs/fort-pymdwizard)-->
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>HEATHER E. GAYA</origin>
+        <origin>CLINT T. MOORE</origin>
+        <pubdate>20190416</pubdate>
+        <title>Burrow and Transect Information for 3 gopher tortoise surveys in Georgia 2016</title>
+        <geoform>spreadsheet</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains locations (in distance to transects) of gopher tortoise burrows observed during line-transect distance sampling and information on transect length. The burrow spreadsheet contains observations at 3 sites from surveys performed by the GADNR. The transect spreadsheets contains the lengths and IDs of the transects walked during those surveys</abstract>
+      <purpose>Data were collected to estimate the abundance of gopher tortoises at three sites in GA. Data may be useful for demonstrating detection difficulties of smaller burrows or for comparing to new data collected at these sites. LTDS surveys were performed with 3 observers and may not be representative of LTDS surveys at other locations or with different observers. </purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160116</begdate>
+          <enddate>20161116</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Newton, GA</descgeog>
+      <bounding>
+        <westbc>-85.1660</westbc>
+        <eastbc>-81.7383</eastbc>
+        <northbc>33.9434</northbc>
+        <southbc>30.2970</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>farming</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Georgia</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Gopherus polyphemus</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Reptilia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Testudines</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Suborder</taxonrn>
+                          <taxonrv>Cryptodira</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Superfamily</taxonrn>
+                            <taxonrv>Testudinoidea</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Testudinidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Gopherus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Gopherus polyphemus</taxonrv>
+                                  <common>TSN: 173858</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Heather Gaya</cntper>
+        </cntperp>
+        <cntpos>Graduate Student</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>180 E Green St</address>
+          <city>Athens</city>
+          <state>GA</state>
+          <postal>30602</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>5097303869</cntvoice>
+        <cntemail>heather.gaya@uga.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This work was funded through USDA NRCS awards 68-7482-16-544 and 68-7482-16-545. Additional funding was provided by the Joseph W. Jones Ecological Research Center. Georgia gopher tortoise data were provided by the Georgia Department of Natural Resources. </datacred>
+    <native>The data is named Burrow_Data.csv, and Transect_Data.csv. It was produced in Microsoft Excel 2016 on an Intel Core 2.70 GHz computer running Windows 10. The data are provided in comma-separated value (.csv) format. Size: 39.67 KB</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Data were not tested for accuracy. GPS unit had 1-2 m accuracy.</attraccr>
+    </attracc>
+    <logic>All the data match up properly. There are no known errors in this dataset</logic>
+    <complete>The dataset only represents observations within the date range provided. It is likely not valid for inferences before or after those dates. </complete>
+    <lineage>
+      <procstep>
+        <procdesc>Following conventional gopher tortoise LTDS survey guidelines (Smith et al. 2016), the GA DNR surveyed transects using 3 observers. The central observer navigated the transect using a Trimble of unknown type (Trimble Navigation, Ltd., Sunnyvale, CA) and searched for burrows on and near the transect. Additional observers searched for burrows on either side of the transect. At each burrow, they obtained a GPS location, measured burrow width at 50 cm inside the opening (Martin and Layne 1987), and determined occupancy status of non-collapsed burrows. They determined occupancy by scoping each burrow with a burrow camera and classifying the burrow as either (1) occupied (tortoise observed), (2) unoccupied or (3) unknown occupancy (Smith et al. 2016).</procdesc>
+        <procdate>20190416</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Burrow_Data.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing gopher tortoise burrow data.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>fid_1</attrlabl>
+        <attrdef>Burrow ID #; indicates order that burrows were found and recorded</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5476</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>survey</attrlabl><attrdef>Location of tortoise survey</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Doerun_NA</edomv>
+      <edomvd>Doerun natural area</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Holman</edomv>
+      <edomvd>Holman property</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Sansavilla_WMA</edomv>
+      <edomvd>Sansavilla WMA</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>transect</attrlabl>
+        <attrdef>Transect ID #;</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>97</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>diameter</attrlabl>
+        <attrdef>Burrow diameter in cm </attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>58</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>scoped</attrlabl><attrdef>Was the burrow scoped for occupancy? </attrdef><attrdefs>Producer defined</attrdefs><attrdomv><edom><edomv>&lt;&lt; empty cell &gt;&gt;</edomv><edomvd>No Data</edomvd><edomvds>Producer defined</edomvds></edom></attrdomv><attrdomv>
+    <edom>
+      <edomv>Y</edomv>
+      <edomvd>Yes</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>N</edomv>
+      <edomvd>No</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>distance</attrlabl>
+        <attrdef>Distance to transect in meters; negative values indicate burrows that were excluded from analysis because they were collapsed or insufficient data was collected</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.0</rdommin>
+            <rdommax>41.89444173</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>tortoise</attrlabl>
+        <attrdef>Was there a tortoise in the burrow? 1 = yes, 0 = no</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Transect_Data.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing transect data.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attrdef>What row number these data came from in a larger spreadsheet not included</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1175</rdommin>
+            <rdommax>4957</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>survey</attrlabl><attrdef>What survey these transects correspond to</attrdef><attrdefs>Producer defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Doerun_NA</edomv>
+      <edomvd>Doerun Natural Area</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Holman</edomv>
+      <edomvd>Holman property</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Sansavilla_WMA</edomv>
+      <edomvd>Sansavilla WMA</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>tr_id</attrlabl>
+        <attrdef>Transect ID</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>One way of identifying individual transects; likely not helpful for analysis</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>tr_num</attrlabl>
+        <attrdef>Transect ID alternative; these numbers correspond to the numbers seen in the burrow dataset</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>98</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>length_m</attrlabl>
+        <attrdef>Length of transect in meters</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>16</rdommin>
+            <rdommax>3639</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Clinton Moore</cntper>
+          <cntorg>U.S. Geological Survey, ECOSYSTEMS</cntorg>
+        </cntperp>
+        <cntpos>Assistant Unit Leader-Wildife</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>150 University CT, Univ of GA</address>
+          <city>Athens</city>
+          <state>GA</state>
+          <postal>30602</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>706-542-1166</cntvoice>
+        <cntfax>706-542-8356</cntfax>
+        <cntemail>cmoore@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://github.com/heathergaya/Bias-Adjusted-Model</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20190416</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Heather Gaya</cntper>
+        </cntperp>
+        <cntpos>Graduate Researcher</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>Warnell School of Forestry and Natural Resources</address>
+          <city>Athens</city>
+          <state>GA</state>
+          <postal>30602</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>5097303869</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
